@@ -1,0 +1,10 @@
+# Personal data: never commit these
+past_posts.txt
+guard.txt
+voice_profile.json
+log.md
+plan.md
+draft*.txt
+# Python
+__pycache__/
+*.pyc
