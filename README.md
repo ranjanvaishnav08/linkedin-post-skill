@@ -20,7 +20,7 @@ It never posts to LinkedIn. It writes; you post.
 Claude Code:
 
 ```bash
-git clone https://github.com/ranjanvaishnav08/Linkedin_SKILL.git ~/.claude/skills/li-post
+git clone https://github.com/ranjanvaishnav08/linkedin-post-skill.git ~/.claude/skills/li-post
 ```
 
 claude.ai: download this repo as a zip and upload it as a skill.
